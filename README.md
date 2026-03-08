@@ -4,7 +4,6 @@
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-In%20Development-orange)]()
-[![Python](https://img.shields.io/badge/Python-3.10%2B-blue)]()
 
 ---
 
